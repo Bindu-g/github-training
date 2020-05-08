@@ -1,0 +1,8 @@
+Flask
+requests
+cfenv
+rq
+keras
+tensorflow
+pandas
+numpy

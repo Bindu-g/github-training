@@ -1,0 +1,6 @@
+---
+applications:
+- memory: 2048MB
+  name: webhook_test_EMS
+  disk_quota: 1024MB
+  random-route: true
